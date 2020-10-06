@@ -1,16 +1,21 @@
-### Hi there 👋
+## Full-Stack Developer; 
+__Lang: PHP | Javascript__
 
-<!--
-**jserranojunior/jserranojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with ...
+[ Vuejs, Laravel, Node, Docker, Mysql, Tailwind ]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+[ Typescript, Quasar, Jest ]
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ https://github.com/jserranojunior/birthdays ]
+
+- 💬 Ask me about
+[ https://github.com/jserranojunior/intellect ]
+
+- 📫 How to reach me: 
+[ https://www.alvitre.com.br ]
+
+Thanks for the visit :blue_heart:
+
+
