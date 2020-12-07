@@ -1,3 +1,9 @@
+
+
+# Jorge Serrano Junior
+
+![Logo alvitre](https://raw.githubusercontent.com/jserranojunior/alvitre-site/master/site/assets/img/logo/png/alvitre.png =200x200)
+
 ## Full-Stack Developer; 
 __Lang: PHP | Javascript__
 
@@ -13,6 +19,3 @@ __Lang: PHP | Javascript__
 [ https://www.alvitre.com.br ]
 
 Thanks for the visit :blue_heart:
-
-
-![Logo alvitre](https://github.com/jserranojunior/alvitre-site/blob/master/site/assets/img/logo/png/alvitre.png)
