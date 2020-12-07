@@ -2,8 +2,8 @@
 
 # Jorge Serrano Junior
 
+<img src="https://raw.githubusercontent.com/jserranojunior/alvitre-site/master/site/assets/img/logo/png/alvitre.png" width="200" align="right"> 
 
-<img src="https://raw.githubusercontent.com/jserranojunior/alvitre-site/master/site/assets/img/logo/png/alvitre.png" width="200"> 
 
 ## Full-Stack Developer; 
 __Lang: PHP | Javascript__
