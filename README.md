@@ -2,7 +2,7 @@
 
 # Jorge Serrano Junior
 
-<img src="https://raw.githubusercontent.com/jserranojunior/alvitre-site/master/site/assets/img/logo/png/alvitre.png" width="200" align="right"> 
+<img src="https://github.com/jserranojunior/alvitre-site/blob/master/src/assets/img/logo/png/alvitre.png" width="200" align="right"> 
 
 
 ## Full-Stack Developer; 
