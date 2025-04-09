@@ -1,6 +1,6 @@
 
 
-# Jorge Serrano Junior  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# JSerranoJunior  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div>
 ## Full-Stack Developer; 
